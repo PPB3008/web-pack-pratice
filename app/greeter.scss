@@ -1,0 +1,16 @@
+$total-width:1rem;
+.greet {
+background-color: blue;
+background-image: url('./img1.jpg');
+font: {
+    family:微软雅黑;
+    size:10em;
+    weight:bold; 
+}
+}
+
+div {
+    float: left;
+    display: flex;
+    width:$total-width;
+}
